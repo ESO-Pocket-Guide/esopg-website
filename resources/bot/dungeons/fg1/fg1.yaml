@@ -1,0 +1,14 @@
+title:  Fungal Grotto I
+description: >
+  Some description
+  Some extra descr
+thumbnail: https://i1.pngguru.com/preview/34/363/678/skyrim-icon-skyrim2-the-elder-scrolls-skyrim-5-icon-png-clipart.jpg
+diagram: "https://i1.pngguru.com/preview/34/363/678/skyrim-icon-skyrim2-the-elder-scrolls-skyrim-5-icon-png-clipart.jpg"
+
+sections:
+  - title: Section 1
+    body: |
+      Some text 1...
+  - title: Section 2
+    body: |
+      Some text 2...
