@@ -1,9 +1,9 @@
 title:  Aetherian Archive
 version: 2020.11.24-1
 description: >
-  Some description
+  Craglorn
 thumbnail: true
-diagram: false
+diagram: true
 
 sections:
   - title: Beginning section
@@ -11,9 +11,34 @@ sections:
        Stack on top of the stairs.
   - title: Add pull after whirlwinds
     body: |
-      Prioritise Overcharges first, then Chainspinners. If you get Overcharger AoE don't move,
-      let others move away from you.
-  - title: Lightning Storm Atronach (boss)
+      - Prioritise Overcharges first, then Chainspinners.
+      - If you get Overcharger AoE don't move, let others move away from you.
+  - title: BOSS - Lightning Storm Atronach
     body: |
-      Call out locations of pads: Left, Right Up, Right, Back, Front.
-      Formation as in the diagram below.
+      - Anyone call out locations of pads: Left, Right Up, Right, Back, Front.
+      - MT ensure that the boss is not rotated.
+      - Block big AoE from boss (pulsar).
+  - title: Portal 1
+    body: |
+      - Left/Right: 1 tank, 1 healer, 2 DDs.
+      - Center: 4 DDs.
+  - title: Add pull after portal 1
+    body: |
+      - Stack on the rock on the left.
+  - title: BOSS -  Foundation Stone Atronach
+    body: |
+      - MT calls out rocks mech (boss kneels down).
+      - OT taunts ranged adds, run to the opposite side to bring them to the centre.
+      - 75% starts rocks mech.
+  - title: Portal 2
+    body: |
+      - As in Portal 1.
+  - title: BOSS - Varlariel
+    body: |
+      - Split in groups as in the diagram.
+      - If you don't have ghost in your tree or if you killed your ghost, help others.
+      - OT can go from tree to tree debuffing the ghosts.
+  - title: BOSS - Varlariel
+    body: |
+      - HM is activated in the portal before the boss and can't be turned off.
+      - If you get Overcharger AoE don't move, let others move away from you.
