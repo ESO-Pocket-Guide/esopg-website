@@ -1,10 +1,9 @@
-title:  Fungal Grotto I
+title:  Aetherian Archive
 version: 2020.11.24-1
 description: >
   Some description
-  Some extra descr
 thumbnail: true
-diagram: true
+diagram: false
 
 sections:
   - title: Section 1
