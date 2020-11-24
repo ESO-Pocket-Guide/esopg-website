@@ -6,9 +6,14 @@ thumbnail: true
 diagram: false
 
 sections:
-  - title: Section 1
+  - title: Beginning section
     body: |
-      Some text 1...
-  - title: Section 2
+       Stack on top of the stairs.
+  - title: Add pull after whirlwinds
     body: |
-      Some text 2...
+      Prioritise Overcharges first, then Chainspinners. If you get Overcharger AoE don't move,
+      let others move away from you.
+  - title: Lightning Storm Atronach (boss)
+    body: |
+      Call out locations of pads: Left, Right Up, Right, Back, Front.
+      Formation as in the diagram below.
